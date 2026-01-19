@@ -22,11 +22,11 @@
 <div align="center">
   <h2 align="center">📫 Conecte-se comigo</h2>
   <p align="center">
-    <a href="[[URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/smayumikobayashi/)]" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/smayumikobayashi/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>&nbsp;
     <a href="https://www.dio.me/users/mayumi_kobayashi" target="_blank">
-      <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dio&logoColor=white" target="_blank" alt="DIO">
+      <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO">
     </a>&nbsp;
   </p>
 </div>
