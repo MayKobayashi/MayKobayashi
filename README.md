@@ -24,9 +24,5 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/smayumikobayashi/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>&nbsp;
-    <a href="https://www.dio.me/users/mayumi_kobayashi" target="_blank">
-      <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO">
-    </a>&nbsp;
   </p>
 </div>
