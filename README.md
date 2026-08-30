@@ -1,21 +1,46 @@
 ## Olá! 👋  Eu sou a Mayumi!
 
-💬 Analista de Dados | Estudante de Ciência de Dados para Negócios e também participante da Turma 12 do #CampusExpertDIO
+💬 Coordenadora de Dados & BI na Helppi Tecnologia | Estudante de Ciência de Dados para Negócios na Fatec Votorantim | Ex-participante da Turma 12 do #CampusExpertDIO
 
-🔭 Atualmente, estou focada em aprimorar minhas habilidades em Análise de Dados, Machine Learning e Engenharia de Dados, utilizando a tecnologia para resolver problemas do mundo real.
+🔭 Atualmente, foco em transformar dados públicos e de negócio em modelos preditivos e dashboards que apoiam decisão real, do pipeline de dados até o modelo em produção.
 
 👯 Minha jornada na tecnologia é movida pela curiosidade e pelo aprendizado contínuo. Acredito no poder da comunidade e estou sempre aberta a colaborar em projetos e trocar conhecimentos!
 
 <div align="center">
+  <h2 align="center">🚀 Projetos em destaque</h2>
+</div>
+
+Portfólio de Projetos Integradores da Ciência de Dados para Negócios, do primeiro modelo de negócio até um pipeline preditivo em produção:
+
+| Projeto | Descrição |
+|---|---|
+| 🔮 [**PI5 · Hotspots de Violência**](https://github.com/MayKobayashi/PI5-Hotspots-Violencia) | Modelo XGBoost em produção que prediz hotspots de violência contra a mulher. App ao vivo: [pifatec.useconectai.com.br](https://pifatec.useconectai.com.br/) |
+| 📊 [**PI6 · Classificação de Risco (Databricks)**](https://github.com/MayKobayashi/PI6-Classificacao-Risco-Violencia) | Migração do pipeline do PI5 para Databricks + Delta Lake + MLflow, em andamento |
+| 🕵️ [**PI4 · Análise de Violência (DDM)**](https://github.com/MayKobayashi/PI4-Violencia-Mulher-DDM) | Pipeline de ETL real (SSP-SP → BigQuery) e dashboard no Looker Studio |
+| ⚙️ [**PI3 · Automação PGA x RAA**](https://github.com/MayKobayashi/PI3-Automacao-PGA-RAA) | Proposta de ETL com IA (RAG/LLM) para automatizar relatórios de gestão da Fatec |
+| 📈 [**PI2 · Dashboards Easy Cooking**](https://github.com/MayKobayashi/PI2-Easy-Cooking-Dashboards) | Design thinking, MVP validado e dashboards de Power BI para uma foodtech fictícia |
+| 🍳 [**PI1 · Easy Cooking**](https://github.com/MayKobayashi/PI1-Easy-Cooking) | Modelagem de negócio, análise de mercado e gestão de projeto do zero |
+
+<div align="center">
   <h2 align="center">🛠️ Minhas Habilidades</h2>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="40" height="40" alt="Power BI"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge" alt="XGBoost"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
 </div>
 
@@ -24,5 +49,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/smayumikobayashi/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
   </p>
 </div>
