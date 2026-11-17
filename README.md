@@ -2,8 +2,6 @@
 
 💬 Coordenadora de Dados & BI na Helppi Tecnologia | Estudante de Ciência de Dados para Negócios na Fatec Votorantim | Ex-participante da Turma 12 do #CampusExpertDIO
 
-🔭 Atualmente, foco em transformar dados públicos e de negócio em modelos preditivos e dashboards que apoiam decisão real, e em construir ferramentas e produtos com IA, do pipeline de dados até a solução no ar.
-
 👯 Minha jornada na tecnologia é movida pela curiosidade e pelo aprendizado contínuo. Acredito no poder da comunidade e estou sempre aberta a colaborar em projetos e trocar conhecimentos!
 
 <div align="center">
