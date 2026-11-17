@@ -2,20 +2,30 @@
 
 💬 Coordenadora de Dados & BI na Helppi Tecnologia | Estudante de Ciência de Dados para Negócios na Fatec Votorantim | Ex-participante da Turma 12 do #CampusExpertDIO
 
-🔭 Atualmente, foco em transformar dados públicos e de negócio em modelos preditivos e dashboards que apoiam decisão real, do pipeline de dados até o modelo em produção.
+🔭 Atualmente, foco em transformar dados públicos e de negócio em modelos preditivos e dashboards que apoiam decisão real, e em construir ferramentas e produtos com IA, do pipeline de dados até a solução no ar.
 
 👯 Minha jornada na tecnologia é movida pela curiosidade e pelo aprendizado contínuo. Acredito no poder da comunidade e estou sempre aberta a colaborar em projetos e trocar conhecimentos!
 
 <div align="center">
-  <h2 align="center">🚀 Projetos em destaque</h2>
+  <h2 align="center">🤖 Projetos com IA e automação</h2>
 </div>
-
-Portfólio de Projetos Integradores da Ciência de Dados para Negócios, do primeiro modelo de negócio até um pipeline preditivo em produção:
 
 | Projeto | Descrição |
 |---|---|
-| 🔮 [**PI5 · Hotspots de Violência**](https://github.com/MayKobayashi/PI5-Hotspots-Violencia) | Modelo XGBoost em produção que prediz hotspots de violência contra a mulher. App ao vivo: [pifatec.useconectai.com.br](https://pifatec.useconectai.com.br/) |
-| 📊 [**PI6 · Classificação de Risco (Databricks)**](https://github.com/MayKobayashi/PI6-Classificacao-Risco-Violencia) | Migração do pipeline do PI5 para Databricks + Delta Lake + MLflow, em andamento |
+| 🎬 [**Além do Dataset**](https://alemdodataset.com.br) | O canal e site de divulgação de ciência de dados em que estou me aventurando: [alemdodataset.com.br](https://alemdodataset.com.br) |
+| 📡 [**Radar de Vagas**](https://github.com/MayKobayashi/radar-de-vagas) | Agente agendado com Claude que busca vagas todo dia, avalia a aderência ao perfil e envia por e-mail um resumo com um currículo adaptado para cada vaga (Gmail, Drive e Docs). Com modelo e passo a passo para replicar |
+| 🎙️ [**Transcrição e Resumo de Aulas**](https://github.com/MayKobayashi/transcricao-de-aulas) | Grava, transcreve em português 100% local com whisper.cpp (acelerado pela GPU) e resume com IA, com vocabulário técnico por matéria |
+
+<div align="center">
+  <h2 align="center">🎓 Projetos Integradores (Fatec)</h2>
+</div>
+
+Portfólio de Projetos Integradores da Ciência de Dados para Negócios, do primeiro modelo de negócio até um pipeline publicado na nuvem:
+
+| Projeto | Descrição |
+|---|---|
+| 📊 [**PI6 · Classificação Histórica por Zona (Databricks)**](https://github.com/MayKobayashi/PI6-Classificacao-Violencia) | Evolução do PI5 em Databricks, Delta Lake e MLflow: ocorrências agrupadas por zona, painel publicado como Databricks App, teste estatístico do modelo e pseudonimização conforme a LGPD |
+| 🔮 [**PI5 · Hotspots de Violência**](https://github.com/MayKobayashi/PI5-Hotspots-Violencia) | Modelo XGBoost que prediz hotspots de violência contra a mulher, com interface em Streamlit. App: [pifatec.useconectai.com.br](https://pifatec.useconectai.com.br/) |
 | 🕵️ [**PI4 · Análise de Violência (DDM)**](https://github.com/MayKobayashi/PI4-Violencia-Mulher-DDM) | Pipeline de ETL real (SSP-SP → BigQuery) e dashboard no Looker Studio |
 | ⚙️ [**PI3 · Automação PGA x RAA**](https://github.com/MayKobayashi/PI3-Automacao-PGA-RAA) | Proposta de ETL com IA (RAG/LLM) para automatizar relatórios de gestão da Fatec |
 | 📈 [**PI2 · Dashboards Easy Cooking**](https://github.com/MayKobayashi/PI2-Easy-Cooking-Dashboards) | Design thinking, MVP validado e dashboards de Power BI para uma foodtech fictícia |
@@ -39,6 +49,7 @@ Portfólio de Projetos Integradores da Ciência de Dados para Negócios, do prim
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </p>
